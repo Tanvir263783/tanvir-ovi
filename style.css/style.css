@@ -1,0 +1,55 @@
+h2{
+    color: #89c51b;
+}
+#heading1v2{
+     color: aqua;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+tr,td{ 
+    border: 1px solid rgb(104, 24, 24)
+    
+}
+.main div{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: center;
+}
+ 
+.child div{
+    background-color: rgb(6, 34, 126);
+    margin: 4px;
+    height: 60px;
+    text-align: center;
+    color: rgb(216, 17, 17);
+
+}
+.maindiv2{
+    display: flex;
+}
+.child1{
+    color: crimson;
+    margin: 4px;
+    height: 60px;
+    text-align: center;
+    background-color: aqua;
+}
+.navigation-list{
+    display: flex;
+    margin: 6px;
+    background-color: darkred;
+}
+li{
+    list-style-type: none;
+    margin: 6px;
+    padding: 4px;
+
+}
+ul{
+    color: aqua;
+
+
+}
